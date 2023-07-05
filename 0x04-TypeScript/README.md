@@ -1,0 +1,2 @@
+ # solutions to typescript project
+
